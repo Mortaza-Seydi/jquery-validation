@@ -6,7 +6,7 @@
 
 ![form](form.png)
 
-## with Jquery Validation you can easily define rules
+## with jquery-validation you can easily define rules
 
 ```js
 rules: {
