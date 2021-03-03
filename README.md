@@ -1,11 +1,12 @@
 # Jquery Validation
-## simple form validation using Jquery Validation
+### simple form validation using [jquery-validation](https://jqueryvalidation.org/)
+### and example of using [select2](https://select2.org/) and [jBox](https://stephanwagner.me/jBox),  [iCheck](http://icheck.fronteed.com/)
 
-### Preview
+## Preview
 
 ![form](form.png)
 
-### with Jquery Validation you can easily define rules
+## with Jquery Validation you can easily define rules
 
 ```js
 rules: {
@@ -42,7 +43,7 @@ rules: {
 }
 ```
 
-### Custom validation methods
+## Custom validation methods
 
 ```js
 jquery.validator.addMethod("username", function (value, element) {
