@@ -1,6 +1,6 @@
 # Jquery Validation
 ### simple form validation using [jquery-validation](https://jqueryvalidation.org/)
-### and example of using [select2](https://select2.org/) and [jBox](https://stephanwagner.me/jBox),  [iCheck](http://icheck.fronteed.com/)
+### other components: [select2](https://select2.org/),  [jBox](https://stephanwagner.me/jBox)  and  [iCheck](http://icheck.fronteed.com/)
 
 ## Preview
 
